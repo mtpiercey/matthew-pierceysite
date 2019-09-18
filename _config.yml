@@ -87,15 +87,14 @@ theme_config:
    mail: mailto:matthew@botinabox.ca
   logo:
     gravatar: true
+  nav:
+    Home: /
+    Whoami: /whoami/
+    The Archives: /archives/
+    Projects: /projects/
+    Contact Me: /contact/
   index:
-    enum_and: ', and'
-
-nav:
-  Home: /
-  About: /about/
-  Writing: /archives/
-  Projects: http://github.com/botinaboxer
-  LINK_NAME: Bot-In-a-Box
+    find_me_on: yeet
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
